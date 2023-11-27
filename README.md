@@ -18,34 +18,70 @@ AAC members do projects related to the domain of their choosing every year, givi
 Any interested students may contribute to our projects by submitting a pull request to the related project repository. We will review the pull request and make changes as necessary. 
 <h3 align="center">Technologies we use</h3>
 
-<p>
-<img src="https://seeklogo.com/images/B/brain-logo-085FB58CDA-seeklogo.com.png" width="40px" height="40px" alt="ML"/> <b><u>MACHINE LEARNING</u></b>
-</p>
-<p style= " align=left ; justify-content =horizontally; font-size"30px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px">
-<b><sup>  PYTHON</sup></b>
-</p>
+<table> 
+<tr> 
+  <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px"></th>
+   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" ></th>
+   <th><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="30px" height="30px" ></th>
+   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="30px" height="30px" ></th>
+  <th>
+    <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="30px" height="30px" >
+  </th>
+  <th> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="30px" height="30px" > </th>
+   <th> <img src="https://avatars.githubusercontent.com/u/64278475?s=280&v=4" alt="Pandas" width="30px" height="30px" > </th>
+   <th> <img src="https://play-lh.googleusercontent.com/DfEB91KZs7JrOIIufWJHJvZJx7bccODKCDjFD1FH4uS7jPZ2sLl-y-3K27u-GMjydg" alt="Pandas" width="30px" height="30px" > </th>
+   <th> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="Pandas" width="30px" height="30px" > </th>
+    <th> <img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" alt="Pandas" width="30px" height="30px" > </th>
+    <th> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Pandas" width="30px" height="30px" ></th>
+    <th> <img src="https://cdn.filestackcontent.com/Lv9BugFSQAutCO785fFa" alt="Pandas" width="30px" height="30px" ></th>
+    <th> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="Pandas" width="30px" height="30px" ></th>
+
+</tr>
+
+
+<tr>
+
+  
+</tr>
+  
+
+  
+
+
+
+</table>
+
+
+
+
+
+
+
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" align="left">
-  <b><sup>PYCHARM</sup></b>
+
+<b><sup> FLUTTER</sup></b>
 </p>
+
 <p align="left">
-<img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="30px" height="30px" align="left">
-  <b><sup>NUMPY</sup></b>
+
+<b><sup> JAVA</sup></b>
 </p>
+
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="30px" height="30px" align="left">
-  <b><sup>TENSORFLOW</sup></b>
+
+<b><sup> KIVY</sup></b>
 </p>
+
 <p align="left">
-<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="30px" height="30px" align="left">
-  <b><sup>PANDAS</sup></b>
+
+<b><sup> REACT NATIVE </sup></b>
 </p>
+
+
+<p align="left">
+<img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png" alt="Pandas" width="30px" height="30px" align="left">
+<b><sup> FIREBASE</sup></b>
+</p>
+
 <hr>
-<p>
-<img src="https://cdn-icons-png.flaticon.com/512/2808/2808331.png" width="40px" height="40px" alt="ML"/> <b><u>IOT</u></b>
-</p>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="30px" height="30px" align="left">
-<b><sup>  ARDUINO</sup></b>
-</p>
+
