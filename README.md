@@ -19,7 +19,7 @@ Any interested students may contribute to our projects by submitting a pull requ
 <p align="center">Technologies we use</p>
 
 
-<img src="machine-learning-examples-applications.jpg" width="40px" height="40px" alt="ML"/> <b>MACHINE LEARNING</b>
+<img src="[machine-learning-examples-applications.jpg](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg)" width="40px" height="40px" alt="ML"/> <b>MACHINE LEARNING</b>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
