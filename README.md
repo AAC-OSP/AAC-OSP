@@ -5,7 +5,7 @@
 
 <h3 align="center">About us</h3>
 <p align="left">
-  <img src="https://i.imgur.com/sQ4yLfw.png" align="right" width="175px" height="175px">
+  <img src="https://i.imgur.com/sQ4yLfw.png" align="right" width="125px" height="125px">
 AAC members do projects related to the domain of their choosing every year, giving them a huge boost in the current market's cut-throat competition. Our members gain experience in various exception handling and will have real world project experience from their first year itself. AAC members have an extensive record of participating and winning in various hackathons. These students are widely considered to be the cream of GRIET. We also conduct various hackathons and events across the year in the college. 
 </p>
 
