@@ -21,7 +21,8 @@ Any interested students may contribute to our projects by submitting a pull requ
 
 <p align="left> 
   <img src="machine-learning-examples-applications.jpg" width="40px" height="40px" alt="ML"/> <b>MACHINE LEARNING</b>
-</p>
+
 ![Python] (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm] (https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![TensorFlow] (https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+</p>
