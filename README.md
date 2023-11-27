@@ -63,13 +63,12 @@ Any interested students may contribute to our projects by submitting a pull requ
   
   
 </tr>
-  
-
-  
-
-
-
 </table>
+
+
+### Repo Activity
+
+
 <hr>
 <h3>Contact Us:</h3>
 
