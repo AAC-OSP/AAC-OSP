@@ -23,7 +23,7 @@ Any interested students may contribute to our projects by submitting a pull requ
 </p>
 <p style= " align=left ; justify-content =horizontally; font-size"30px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px">
-<b><sup>PYTHON</sup></b>
+<b><sup>  PYTHON</sup></b>
 </p>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" align="left">
@@ -46,5 +46,6 @@ Any interested students may contribute to our projects by submitting a pull requ
 <img src="https://cdn-icons-png.flaticon.com/512/2808/2808331.png" width="40px" height="40px" alt="ML"/> <b><u>IOT</u></b>
 </p>
 <p align="left">
-Arduino <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="40px" height="40px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="30px" height="30px" align="left">
+<b><sup>  ARDUINO</sup></b>
 </p>
