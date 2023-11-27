@@ -1,6 +1,5 @@
 <h1>AAC Open Source Pool</h1>
-
-![AAC](https://imgur.com/3ct1eKF)
+<img src="https://imgur.com/3ct1eKF">
 
 <h3 align="center">Introduction</h3>
 [Advanced Academic Center](https://www.aacgriet.com/) is a technical club in [Gokaraju Rangaraju Institute of Engineering and Technology](https://www.griet.ac.in/). We are a student centric club aiming to develop our skills and share our proficiency among our peers. We work on evergreen techologies like Machine Learning, Computer Vision, Internet of Things, Web development and App development.
@@ -18,11 +17,28 @@ AAC members do projects related to the domain of their choosing every year, givi
 Any interested students may contribute to our projects by submitting a pull request to the related project repository. We will review the pull request and make changes as necessary. 
 <h3 align="center">Technologies we use</h3>
 
-
-<img src="[machine-learning-examples-applications.jpg](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/09/72142deep-learning-vs-machine-learning-t.jpg)" width="40px" height="40px" alt="ML"/> <b>MACHINE LEARNING</b>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<br>
+<p>
+<img src="https://seeklogo.com/images/B/brain-logo-085FB58CDA-seeklogo.com.png" width="40px" height="40px" alt="ML"/> <b><u>MACHINE LEARNING</u></b>
+</p>
+<p align="left">
+Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40px" height="40px">
+</p>
+<p align="left">
+Pycharm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="40px" height="40px" align="right">
+</p>
+<p align="left">
+Numpy <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="40px" height="40px" align="right">
+</p>
+<p align="left">
+Tensorflow <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="40px" height="40px" align="right">
+</p>
+<p align="left">
+Pandas <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="40px" height="40px" align="right">
+</p>
+<hr>
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/2808/2808331.png" width="40px" height="40px" alt="ML"/> <b><u>IOT</u></b>
+</p>
+<p align="left">
+Arduino <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="40px" height="40px" align="right">
+</p>
