@@ -24,42 +24,42 @@ Any interested students may contribute to our projects by submitting a pull requ
 <h3 align="center">Technologies we use</h3>
 <table align="center"> 
 <tr> 
-  <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px"></th>
-   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" ></th>
-   <th><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="30px" height="30px" ></th>
-   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="30px" height="30px" ></th>
+  <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="50px" height="50px"></th>
+   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="50px" height="50px" ></th>
+   <th><img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="50px" height="50px" ></th>
+   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="50px" height="50px" ></th>
   <th>
-    <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="30px" height="30px" >
+    <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="50px" height="50px" >
   </th>
-  <th> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="30px" height="30px" > </th>
-   <th> <img src="https://avatars.githubusercontent.com/u/64278475?s=280&v=4" alt="Pandas" width="30px" height="30px" > </th>
-   <th> <img src="https://play-lh.googleusercontent.com/DfEB91KZs7JrOIIufWJHJvZJx7bccODKCDjFD1FH4uS7jPZ2sLl-y-3K27u-GMjydg" alt="Pandas" width="30px" height="30px" > </th>
-   <th> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="Pandas" width="30px" height="30px" > </th>
-    <th> <img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" alt="Pandas" width="30px" height="30px" > </th>
-    <th> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Pandas" width="30px" height="30px" ></th>
-    <th> <img src="https://cdn.filestackcontent.com/Lv9BugFSQAutCO785fFa" alt="Pandas" width="30px" height="30px" ></th>
-    <th> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="Pandas" width="30px" height="30px" ></th>
-    <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Python" width="30px" height="30px"></th>
+  <th> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Pandas" width="50px" height="50px" > </th>
+   <th> <img src="https://avatars.githubusercontent.com/u/64278475?s=280&v=4" alt="Pandas" width="50px" height="50px" > </th>
+   <th> <img src="https://play-lh.googleusercontent.com/DfEB91KZs7JrOIIufWJHJvZJx7bccODKCDjFD1FH4uS7jPZ2sLl-y-3K27u-GMjydg" alt="Pandas" width="50px" height="50px" > </th>
+   <th> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="Pandas" width="50px" height="50px" > </th>
+    <th> <img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" alt="Pandas" width="50px" height="50px" > </th>
+    <th> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Pandas" width="50px" height="50px" ></th>
+    <th> <img src="https://cdn.filestackcontent.com/Lv9BugFSQAutCO785fFa" alt="Pandas" width="50px" height="50px" ></th>
+    <th> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="Pandas" width="50px" height="50px" ></th>
+    <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Python" width="50px" height="50px"></th>
 
 </tr>
 
 
 <tr>
 
-  <th> <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Pandas" width="30px" height="30px" ></th>
-  <th><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="Pandas" width="30px" height="30px" > </th>
-  <th> <img src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies-thumbnail.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://www.topsqill.com/Upload/Course/637498279774051823.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Pandas" width="30px" height="30px" ></th>
-  <th> <img src="https://mediapipe.dev/demo/holistic_remote/logo_white.png" alt="Pandas" width="30px" height="30px" ></th>
+  <th> <img src="https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Pandas" width="50px" height="50px" ></th>
+  <th><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="Pandas" width="50px" height="50px" > </th>
+  <th> <img src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies-thumbnail.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://www.topsqill.com/Upload/Course/637498279774051823.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Pandas" width="50px" height="50px" ></th>
+  <th> <img src="https://mediapipe.dev/demo/holistic_remote/logo_white.png" alt="Pandas" width="50px" height="50px" ></th>
   
   
 </tr>
