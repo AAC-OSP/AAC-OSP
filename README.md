@@ -58,7 +58,6 @@ Any interested students may contribute to our projects by submitting a pull requ
   <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="50px" height="50px" ></th>
   <th> <img src="https://www.topsqill.com/Upload/Course/637498279774051823.png" alt=".NET" width="50px" height="50px" ></th>
   <th> <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="OpenCV" width="50px" height="50px" ></th>
-  <th> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="50px" height="50px" ></th>
   <th> <img src="https://mediapipe.dev/demo/holistic_remote/logo_white.png" alt="Mediapipe" width="50px" height="50px" ></th>
   
   
