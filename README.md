@@ -2,13 +2,13 @@
 
 <h3 align="center">Introduction</h3>
 <a href="https://www.aacgriet.com/"> Advanced Academic Center (AAC)</a> is a technical club in <a href="https://www.griet.ac.in/"> Gokaraju Rangaraju Institute of Engineering and Technology</a>. We are a student centric club aiming to develop our skills and share our proficiency among our peers. We work on evergreen techologies like Machine Learning, Computer Vision, Internet of Things, Web development and App development.
-
+<hr>
 <h3 align="center">About us</h3>
 <p align="left">
-  <img src="https://i.imgur.com/sQ4yLfw.png" align="right" width="125px" height="125px">
+  <img src="https://www.aacgriet.com/static/logo-e912706e1a0d72a99a1b86c4fe829197.png" align="right" width="125px" height="125px">
 AAC members do projects related to the domain of their choosing every year, giving them a huge boost in the current market's cut-throat competition. Our members gain experience in various exception handling and will have real world project experience from their first year itself. AAC members have an extensive record of participating and winning in various hackathons. These students are widely considered to be the cream of GRIET. We also conduct various hackathons and events across the year in the college. 
 </p>
-
+<hr>
 <h3 align="center">Get Involved</h3>
 <ul>
   <li>The members of this club are accepted by a filteration of 2 rounds in their first year.</li>
@@ -16,11 +16,12 @@ AAC members do projects related to the domain of their choosing every year, givi
   <li>The second round tests the students' ability to be quick on their feet. We give a task on preparing a documentation about various relevant topics. Preparation of the document will give us insights on the student's ability to learn on their own and grasp concepts without explanation.</li>
   <li>In the interview, we test a student's speaking skills by asking questions on the spot, forcing them to articulate their thoughts. We also ask verbal aptitude questions and simple mathematical questions.</li>
 </ul>
-
+<hr>
 <h3 align="center">How to Contribute</h3>
 Any interested students may contribute to our projects by submitting a pull request to the related project repository. We will review the pull request and make changes as necessary. 
-<h3 align="center">Technologies we use</h3>
 
+<hr>
+<h3 align="center">Technologies we use</h3>
 <table align="center"> 
 <tr> 
   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px"></th>
@@ -69,12 +70,23 @@ Any interested students may contribute to our projects by submitting a pull requ
 
 
 </table>
+<hr>
+<h3>Contact Us:</h3>
 
-<h3 align="center">Contact Us</h3>
-Email: aactechgriet@gmail.com
-
-
-
+<a href="https://www.linkedin.com/school/aac-griet/">
+   <img align="left" alt="Venkat Amar | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="mailto:aactechgriet@gmail.com">
+    <img align="left" alt="Venkat Amar | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://instagram.com/aac_grietofficial?igshid=YTA1Njc0MTg3OQ==">
+    <img align="left" alt="Venkat Amar | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<a href="https://github.com/AAC-OSP">
+    <img align="left" alt="Venkat Amar | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+<br>
+<p align="right"> Managed by AAC Training and Development wing</p>
 
 
 
