@@ -20,5 +20,5 @@ Any interested students may contribute to our projects by submitting a pull requ
 ### <p align="center">Technologies we use</p>
 
 <p align="left> 
-  <img src="https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2021-12/machine-learning-examples-applications.png" width="40px" height="40px" alt="ML"/> MACHINE LEARNING
+  <img src="machine-learning-examples-applications.jpg" width="40px" height="40px" alt="ML"/> <b>MACHINE LEARNING</b>
 </p>
