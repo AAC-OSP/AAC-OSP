@@ -1,6 +1,7 @@
 <h1>AAC Open Source Pool</h1>
 <img src="https://imgur.com/3ct1eKF">
 
+
 <h3 align="center">Introduction</h3>
 [Advanced Academic Center](https://www.aacgriet.com/) is a technical club in [Gokaraju Rangaraju Institute of Engineering and Technology](https://www.griet.ac.in/). We are a student centric club aiming to develop our skills and share our proficiency among our peers. We work on evergreen techologies like Machine Learning, Computer Vision, Internet of Things, Web development and App development.
 
@@ -20,20 +21,25 @@ Any interested students may contribute to our projects by submitting a pull requ
 <p>
 <img src="https://seeklogo.com/images/B/brain-logo-085FB58CDA-seeklogo.com.png" width="40px" height="40px" alt="ML"/> <b><u>MACHINE LEARNING</u></b>
 </p>
-<p align="left">
-Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40px" height="40px">
+<p style= " align=left ; justify-content =horizontally; font-size"30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px">
+<b><sup>PYTHON</sup></b>
 </p>
 <p align="left">
-Pycharm <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="40px" height="40px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" align="left">
+  <b><sup>PYCHARM</sup></b>
 </p>
 <p align="left">
-Numpy <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="40px" height="40px" align="right">
+<img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="Numpy" width="30px" height="30px" align="left">
+  <b><sup>NUMPY</sup></b>
 </p>
 <p align="left">
-Tensorflow <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="40px" height="40px" align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow" width="30px" height="30px" align="left">
+  <b><sup>TENSORFLOW</sup></b>
 </p>
 <p align="left">
-Pandas <img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="40px" height="40px" align="right">
+<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" alt="Pandas" width="30px" height="30px" align="left">
+  <b><sup>PANDAS</sup></b>
 </p>
 <hr>
 <p>
