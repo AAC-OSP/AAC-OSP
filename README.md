@@ -18,7 +18,7 @@ AAC members do projects related to the domain of their choosing every year, givi
 Any interested students may contribute to our projects by submitting a pull request to the related project repository. We will review the pull request and make changes as necessary. 
 <h3 align="center">Technologies we use</h3>
 
-<table> 
+<table align="center"> 
 <tr> 
   <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30px" height="30px"></th>
    <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="30px" height="30px" ></th>
