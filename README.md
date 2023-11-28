@@ -26,15 +26,19 @@ AAC members do projects related to the domain of their choosing every year, givi
 <h3 align="center">
   <img src="https://imgur.com/yK0qR5J.png">
 </h3>
-1. Interested candidate can make a pull request for a specific repository. <br>
-2. The candidate is advised to follow the valid format for pull request, which includes, but is not limited to: <br>
-    - Before choosing to propose changes to this project, it is advisable to go through the readme.md file of the project to get the philosphy and the motive that went behind this project. The pull request should align with the philosphy and the motive of the original poster of this project. <br>
-    - To add your changes, make sure that the programming language in which you are proposing the changes should be same as the programming language that has been used in the project. The versions of the programming language and the libraries(if any) used should also match with the original code. <br>
-    - Write a documentation on the changes that you are proposing. The documentation should include the problems you have noticed in the code(if any), the changes you would like to propose, the reason for these changes, and sample test cases. Remember that the topics in the documentation is strictly not limited to the topics aforementioned, but are just an inclusion. <br>
-    -  Submit a pull request via <a href = "https://gist.github.com/mikepea/863f63d6e37281e329f8"> Git etiquette </a>
-3. If the pull request format is not following the valid format, the pull request access will be denied. If the pull request format is valid, it will be reviewed.
-4. If there are any changes that are to be done to the pull request, you will be reverted back. If there are no changes to be done, your pull request will be approved. 
-5. Your changes will undergo validation(sample test cases and security). If the results are saisfactory, your change will be merged. If not, you will be reverted back.
+<ol>
+<li>Interested candidate can make a pull request for a specific repository. </li> <br>
+<li>The candidate is advised to follow the valid format for pull request, which includes, but is not limited to: </li><br>
+   <ul>
+       <li>Before choosing to propose changes to this project, it is advisable to go through the readme.md file of the project to get the philosphy and the motive that went behind this project. The pull request should align with the philosphy and the motive of the original poster of this project. </li> <br>
+    <li>To add your changes, make sure that the programming language in which you are proposing the changes should be same as the programming language that has been used in the project. The versions of the programming language and the libraries(if any) used should also match with the original code. </li><br>
+    <li>Write a documentation on the changes that you are proposing. The documentation should include the problems you have noticed in the code(if any), the changes you would like to propose, the reason for these changes, and sample test cases. Remember that the topics in the documentation is strictly not limited to the topics aforementioned, but are just an inclusion. </li>
+   </ul>
+    <li>Submit a pull request via <a href = "https://gist.github.com/mikepea/863f63d6e37281e329f8"> Git etiquette </a> </li> <br>
+<li>If the pull request format is not following the valid format, the pull request access will be denied. If the pull request format is valid, it will be reviewed. </li><br>
+<li>If there are any changes that are to be done to the pull request, you will be reverted back. If there are no changes to be done, your pull request will be approved. </li><br>
+<li>Your changes will undergo validation(sample test cases and security). If the results are saisfactory, your change will be merged. If not, you will be reverted back. </li><br>
+<\ol>
 
 <hr>
 <h3 align="center">
