@@ -38,7 +38,7 @@ AAC members do projects related to the domain of their choosing every year, givi
 <li>If the pull request format is not following the valid format, the pull request access will be denied. If the pull request format is valid, it will be reviewed. </li><br>
 <li>If there are any changes that are to be done to the pull request, you will be reverted back. If there are no changes to be done, your pull request will be approved. </li><br>
 <li>Your changes will undergo validation(sample test cases and security). If the results are saisfactory, your change will be merged. If not, you will be reverted back. </li><br>
-<\ol>
+</ol>
 
 <hr>
 <h3 align="center">
