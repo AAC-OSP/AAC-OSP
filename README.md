@@ -30,7 +30,7 @@ Any interested students may contribute to our projects by submitting a pull requ
 
 <hr>
 <h3 align="center">
-  <img src="https://imgur.com/3X5l47a.png">
+  <img src="https://imgur.com/DvSZULp.png">
 </h3>
 <img src="https://imgur.com/VCY7aic.png">
 
