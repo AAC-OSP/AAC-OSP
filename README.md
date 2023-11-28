@@ -35,9 +35,6 @@ Any interested students may contribute to our projects by submitting a pull requ
 <img src="https://imgur.com/DDrvtzN.png">
 
 
-### Repo Activity
-
-
 <hr>
 <h3>Contact Us:</h3>
 
