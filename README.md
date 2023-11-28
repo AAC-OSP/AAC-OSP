@@ -17,10 +17,10 @@ AAC members do projects related to the domain of their choosing every year, givi
   <img src="https://imgur.com/NpOJJxh.png">
 </h3>
 <ul>
-  <li>The members of this club are accepted by a filtration of 2 rounds in their first year.</li>
-  <li>The first round concentrates on their mental ability, mathematical prowess, and English proficiency. A person's ability to think, ability to apply concepts in the real world, and ability to coherently frame their train of thought is a valued asset in any branch of the profession.</li>
-  <li>The second round tests the students' ability to be quick on their feet. We give a task on preparing a documentation about various relevant topics. Preparation of the document will give us insights into the student's ability to learn on their own and grasp concepts without explanation.</li>
-  <li>In the interview, we test a student's speaking skills by asking questions on the spot, forcing them to articulate their thoughts. We also ask verbal aptitude questions and simple mathematical questions.</li>
+<li>The members of this club are accepted by a filtration of 3 rounds in their first year.</li>
+<li>The first round concentrates on their mental ability, mathematical prowess, and English proficiency. </li>
+<li>The second round tests the students' ability to be quick on their feet. We give a task on preparing a documentation about various relevant topics. </li>
+<li>In the interview, we test a student's speaking skills by asking questions on the spot, forcing them to articulate their thoughts.</li>
 </ul>
 <hr>
 <h3 align="center">
