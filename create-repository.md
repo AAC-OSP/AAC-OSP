@@ -14,7 +14,7 @@
 <img src="https://imgur.com/qKoLNyf.png" style="width:420px; height:400px">
 <p> Click on Create repository </p>
 <img src="https://imgur.com/xWfmDAK.png" style="width:240px; height:150px">
-<p> Click on Code and copy the link of the repositoryv</p>
+<p> Click on Code and copy the link of the repository</p>
 <img src="https://imgur.com/gysInUp.png" style="width:600px; height:400px">
 <h2> Step 2 — Initialize Git in the project folder </h2>
 <h3> git init </h3>
