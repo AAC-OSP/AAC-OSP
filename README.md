@@ -63,7 +63,7 @@ AAC members do projects related to the domain of their choosing every year, givi
     <img align="left" alt="Venkat Amar | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 <br>
-<p align="right"> Managed by AAC Training and Development wing</p>
+<p align="right"> Developed and Maintained by Advanced Academic Center Core committee</p>
 
 
 
